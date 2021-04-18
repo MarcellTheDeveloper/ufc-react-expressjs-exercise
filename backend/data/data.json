@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Khabib Nurmagomedov",
+    "picture": "images/khabib-nurmagomedov.png",
+    "age": 32,
+    "wins": 29,
+    "losses": 0,
+    "lastfought": "2020-10-24",
+    "division": "Lightweight",
+    "nationality": "Russia",
+    "active": false
+  },
+  {
+    "name": "Dustin Poirier",
+    "picture": "images/dustin-piorier.png",
+    "age": 32,
+    "wins": 27,
+    "losses": 6,
+    "lastfought": "2021-01-23",
+    "division": "Lightweight",
+    "nationality": "USA",
+    "active": true
+  },
+  {
+    "name": "Justin Gaethje",
+    "picture": "images/justin-gaethje.png",
+    "age": 31,
+    "wins": 23,
+    "losses": 2,
+    "lastfought": "2020-10-24",
+    "division": "Lightweight",
+    "nationality": "USA",
+    "active": true
+  },
+  {
+    "name": "Charles Oliveira",
+    "picture": "images/charles-oliviera.png",
+    "age": 30,
+    "wins": 29,
+    "losses": 8,
+    "lastfought": "2020-12-12",
+    "division": "Lightweight",
+    "nationality": "Brazil",
+    "active": true
+  },
+  {
+    "name": "Michael Chandler",
+    "picture": "images/michael-chandler.png",
+    "age": 34,
+    "wins": 22,
+    "losses": 5,
+    "lastfought": "2021-01-23",
+    "division": "Lightweight",
+    "nationality": "USA",
+    "active": true
+  },
+  {
+    "name": "Tony Ferguson",
+    "picture": "images/tony-ferguson.png",
+    "age": 36,
+    "wins": 26,
+    "losses": 4,
+    "lastfought": "2020-12-12",
+    "division": "Lightweight",
+    "nationality": "USA",
+    "active": true
+  },
+  {
+    "name": "Conor McGregor",
+    "picture": "images/conor-mcgregor.png",
+    "age": 32,
+    "wins": 22,
+    "losses": 5,
+    "lastfought": "2021-01-23",
+    "division": "Lightweight",
+    "nationality": "Ireland",
+    "active": true
+  }
+]

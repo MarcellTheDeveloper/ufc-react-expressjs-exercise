@@ -1,0 +1,79 @@
+*,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.fighterCard {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 70px 0px;
+}
+
+.fighterCard .fighterName {
+  font-size: 28px;
+}
+
+.fighterCard .fighterData p:nth-child(2),
+.fighterCard .fighterData p:nth-child(3) {
+  margin: 20px 0px;
+  font-size: 18px;
+}
+
+.fighterCard .fighterData button {
+  width: 200px;
+  text-decoration: none;
+  border: 2px solid #348dd6;
+  background: none;
+  padding: 15px;
+  cursor: pointer;
+  font-size: 18px;
+  margin-top: 15px;
+}
+
+.fighterCard .fighterMoreData {
+  margin-left: 70px;
+}
+
+.fighterCard .fighterMoreData p:nth-child(1) {
+  margin-top: 0px;
+}
+
+.fighterCard .fighterMoreData p {
+  margin: 20px 0px;
+  font-size: 18px;
+}
+
+.fighterCard .fighterMoreData p span {
+  font-size: 20px;
+  color: grey;
+  font-weight: 600;
+}
+
+.fighterCard .fighterMoreData p:last-child {
+  margin-bottom: 0px;
+}
+
+#lastfoughtLabel {
+  margin-left: 100px;
+}
+
+label {
+  margin: 0px 5px;
+}
+
+.filterBtn {
+  color: black;
+  font-size: 16px;
+  text-decoration: none;
+  border: 1px solid black;
+  background: none;
+  margin-left: 15px;
+}
+
+.filterTitle {
+  margin: 20px 20px 20px 5px;
+  font-size: 22px;
+}
+/*# sourceMappingURL=app.css.map */
